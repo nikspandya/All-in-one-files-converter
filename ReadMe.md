@@ -13,7 +13,7 @@ Then run the following cmd from the root folder
 This will start the backend to receive endpoint requests from the frontends.
 
 
-# Running backend App manually  
+# Running App manually  
 Please use the following steps to use API manually 
 1. Install [python 3.7](https://www.python.org/downloads/) or higher
 2. Install and create new [conda](https://docs.conda.io/en/latest/miniconda.html) isolated env or [python virtual env](https://docs.python.org/3/tutorial/venv.html) 
