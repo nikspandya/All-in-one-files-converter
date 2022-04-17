@@ -1,6 +1,6 @@
 # All in one file converter:
 
-User can convert any file with  '.pdf', .jpg', '.png', '.bmp', '.ppm', '.gif', '.tiff' file extensions to '.jpg', '.png', '.bmp', '.ppm', '.gif', '.tiff' file formates. 
+User can convert any file with  `'.pdf', .jpg', '.png', '.bmp', '.ppm', '.gif', '.tiff'` file extensions to `'.jpg', '.png', '.bmp', '.ppm', '.gif', '.tiff'` file formates. 
 
 
 # Running App using docker
