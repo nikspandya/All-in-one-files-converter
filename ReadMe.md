@@ -4,7 +4,7 @@ User can convert any file with  `'.pdf', .jpg', '.png', '.bmp', '.ppm', '.gif', 
 
 
 # Running App using docker
-Install [docker](https://docs.docker.co) and [docker compose](https://docs.docker.com/compose/).
+Install [docker](https://docs.docker.com) and [docker compose](https://docs.docker.com/compose).
 
 Then run the following cmd from the root folder
 
